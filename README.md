@@ -1,5 +1,5 @@
 # InterfaceGraficaJAVA
-6 codigos de JAVA sobre interface gráfica
+codigos de JAVA sobre interface gráfica
 
 Prints dos codigos funcionando:
 <br>
@@ -17,10 +17,6 @@ Prints dos codigos funcionando:
 <br>
 4- Triangulo
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/ed768501-3271-4480-8b44-56b12f0da04f" />
-<br>
-<br>
-5- ICM
-
 <br>
 <br>
 6- Conversor de temperatura

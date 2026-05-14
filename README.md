@@ -19,5 +19,5 @@ Prints dos codigos funcionando:
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/ed768501-3271-4480-8b44-56b12f0da04f" />
 <br>
 <br>
-6- Conversor de temperatura
+5- Conversor de temperatura
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/63e4a850-2624-480d-bae1-b6e6ff983c48" />
